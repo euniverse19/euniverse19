@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm sahid raza</h1>
-<h3 align="center">A student of bmsit</h3>
+<h1 align="center">Hello 👋, This is Eunice here</h1>
+<h3 align="center">Student at BMSIT</h3>
+<h4 align="center">Currently pursuing Electronics and Telecommunicstion engineering</h4>
 <img alin="right"alt="coading"width="400"src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahid9954&label=Profile%20views&color=0e75b6&style=flat" alt="sahid9954" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahid9954" alt="sahid9954" /></a> </p>
-
-- 🌱 I’m currently learning *DSA and gonna improving with c++.*
+- 🌱 I’m currently learning *DSA and HTML*
 
 - 💬 Ask me about *c language*
 
-- 📫 How to reach me *sahidraza9954@gmail.com*
+- 📫 How to reach me *eunicejeba53@gmail.com*
 
-- ⚡ Fun fact *i love to listen music*
+- ⚡ Fun fact *I love listening to music*
   
 - leetcode *https://leetcode.com/sahidraza9954/*
 
@@ -44,7 +41,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/sahid-raza-b6a44124b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sahid%20Raza-blue?style=flat-square&logo=linkedin"></a><br/>
-<a href="https://www.instagram.com/sahidraza9954/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahidraza9954_-blue?style=flat-square&logo=instagram"></a><br/>
+<a href="https://www.instagram.com/sahidraza9954/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sahidraza9954_-blue?style=flat-square&logo=instagram"(https://www.instagram.com/_.euniverse19._/)></a><br/>
 <a href="mailto:sahidraza9954@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sahidraza9954@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
